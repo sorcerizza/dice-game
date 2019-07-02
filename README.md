@@ -1,2 +1,2 @@
 # dice-game
-Simple Javascript Dice Game
+Just a SImple Javascript dice game
